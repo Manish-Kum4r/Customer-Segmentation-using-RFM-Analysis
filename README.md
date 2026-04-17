@@ -1,4 +1,4 @@
-# Banking Customer Segmentation & Churn Risk Analysis
+# Customer Segmentation usi RFM Analysis
 Power BI dashboard for RFM analysis and customer segmentation.
 
 Project Overview
